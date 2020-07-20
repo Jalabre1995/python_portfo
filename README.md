@@ -3,4 +3,4 @@
 Check out my new Portfolio using Python, index.html, CSS, and Javascript. The final product is not ready yet, but everything on the portfolio is coming together. 
 
 # Website URL
-Jalabre1995.pythonanywhere.com
+http://jalabre1995.pythonanywhere.com/
